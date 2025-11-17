@@ -11,14 +11,17 @@
 # 結果與討論
 
 運動學分析
+
 ![image alt](https://github.com/jinshuolee/Wiper-mechanism-analysis/blob/main/Free_body_diagram.png?raw=true)
 
 動態平衡設計
+
 ![image alt](https://github.com/jinshuolee/Wiper-mechanism-analysis/blob/main/New_structure_after_balancing.png?raw=true)
 
-
 平衡後搖撼力
+
 ![image alt](https://github.com/jinshuolee/Wiper-mechanism-analysis/blob/main/Balancing_shaking_force.jpg?raw=true)
 
 平衡後搖撼力矩
+
 ![image alt](https://github.com/jinshuolee/Wiper-mechanism-analysis/blob/main/Balancing_shaking_moment.jpg?raw=true)
